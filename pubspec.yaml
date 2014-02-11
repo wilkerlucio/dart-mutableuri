@@ -1,5 +1,5 @@
 name: mutableuri
-author: Wilker Lucio
+author: Wilker Lucio <wilkerlucio@gmail.com>
 version: 0.0.1
 homepage: https://github.com/wilkerlucio/dart-mutableuri
 description: Mutable version of Dart Uri core class
