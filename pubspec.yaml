@@ -1,4 +1,7 @@
 name: mutableuri
-description: A sample command-line application
-dependencies:
+author: Wilker Lucio
+version: 0.0.1
+homepage: https://github.com/wilkerlucio/dart-mutableuri
+description: Mutable version of Dart Uri core class
+dev_dependencies:
   unittest: any
