@@ -1,4 +1,4 @@
-Dart Mutableuri
+Dart MutableUri
 ===============
 
 Mutable version of Dart Uri core class
