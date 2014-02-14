@@ -31,6 +31,12 @@ void main() {
 }
 ```
 
+In addition to the default `Uri` initializers, you can also started a `MutableUri` from an `Uri`:
+
+```dart
+MutableUri uri = new MutableUri.fromUri(uriInstance);
+```
+
 Just a catch, the way `MutableUri` works is by recreating an internal representation of an `Uri` object and delegating the getters to it.
 So, you can't mutate `pathSegments` or `queryParameters` direct, but you can replace them, as:
 
