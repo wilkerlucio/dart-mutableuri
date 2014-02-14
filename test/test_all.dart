@@ -114,11 +114,5 @@ void main() {
 
       expect(uri.toString(), 'http://www.dartlang.org/#frag');
     });
-
-    test('', () {
-      uri = MutableUri.parse('http://www.dartlang.org/');
-
-      expect(uri.toString(), 'http://www.dartlang.org/');
-    });
   });
 }
