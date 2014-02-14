@@ -1,6 +1,8 @@
 Dart MutableUri
 ===============
 
+[![Build Status](https://drone.io/github.com/wilkerlucio/dart-mutableuri/status.png)](https://drone.io/github.com/wilkerlucio/dart-mutableuri/latest)
+
 Mutable version of Dart Uri core class
 
 Install
